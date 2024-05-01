@@ -1,7 +1,7 @@
 Hi,  
-Welcome to my Github profile.  
-Currently, I am Associate Staff Engineer in Samsung Semiconductor India Research (SSIR) in Modem Software Development team. I work on L2 layer of LTE and NR protocol stack.  
-I have graduated with Master's degree from IIT Madras where I have done research in field of Wireless Communication. 
+Welcome to my GitHub profile.  
+I am a Staff Engineer in Samsung Semiconductor India Research (SSIR) in the Modem Software Development team. I work on the L2 layer of LTE and NR protocol stack.  
+
 
 
 <!---
